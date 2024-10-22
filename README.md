@@ -1,3 +1,5 @@
+> **⚠️ Atención** Esta opción dejó de ser gratuita debido a cambios en la plataforma de Railway. [Mas info](https://railway.app/).
+
 🚀 Aplicación Slim Framework 4 PHP + MySQL con despliegue automático.
 ==============================
 
